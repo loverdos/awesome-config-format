@@ -1,7 +1,6 @@
 # Awesome configuration formats
 
-A curated list of awesome configuration formats and their respective libraries and specifications.
-Inspired by the awesome-* trend.
+A curated list of awesome configuration formats and their respective libraries and specifications. Inspired by the awesome-* trend.
 
 If you want to contribute to this list, please send a pull request. We should keep here only libraries, specs, formats that are actively maintained.
 
@@ -32,3 +31,10 @@ A configuration file format for humans. Relaxed syntax, fewer mistakes, more com
 Jsonnet is a domain specific configuration language that helps you define JSON data
 
 * [jsonnet.org](http://jsonnet.org/)
+
+
+## libucl
+[libucl](https://github.com/vstakhov/libucl) is a universal configuration library parser
+
+## STON
+[Smalltalk Object Notation (ston)](https://github.com/svenvc/ston) is a  data interchange format for class-based object-oriented languages like Smalltalk.
